@@ -13,24 +13,15 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
  ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>HEROKU</a> 
- ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]
-
-⍟───[ My ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
-    
-• ꜰᴜʟʟ ɴᴀᴍᴇ : RIO NETWORKS 
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorrio
-• Updates  : <a href='https://t.me/Teamrioupdates '>Click here</a> 
-. Country : India 🇮🇳
-. State : Tamil Nadu
-. More information : <a href='https://t.me/Teamrioupdates/219'>👉Click here👈</a>  ></b>"""
+ ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
 
     SOURCE_TXT = """
-<b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+<b>Tʜɪꜱ Bᴏᴛ Iꜱ  Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
 contact developer give source code 😊
 
--Developer : <a href=https://t.me/creatorrio>☢ RIO NETWORKS ☢</a></b>"""
+-Developer : <a href=https://t.me/creatorrio> RIO NETWORKS </a></b>"""
                   
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -254,6 +245,16 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 • /gfilters - <code>Tᴏ ᴠɪᴇᴡ ᴀʟʟ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀs.</code>
 • /delg - <code>Tᴏ ᴅᴇʟᴇᴛᴇ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ.</code>
 • /delallg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀꜱ.</code>"""
+
+   OWNER_INFO = """
+<b>⍟───[ My ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
+    
+• ꜰᴜʟʟ ɴᴀᴍᴇ : RIO NETWORKS 
+• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorrio
+• Updates  : <a href='https://t.me/Teamrioupdates'>Click here</a> 
+. Country : India 🇮🇳
+. State : Tamil Nadu
+. More information : <a href='https://t.me/Teamrioupdates/219'>👉Click here👈</a></b>"""
     
     FILE_STORE_TXT = """
 <b>Fɪʟᴇ sᴛᴏʀᴇ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡʜɪᴄʜ ᴡɪʟʟ ᴄʀᴇᴀᴛᴇ ᴀ sʜᴀʀᴇᴀʙʟᴇ ʟɪɴᴋ ᴏғ ᴀ sɪɴɢʟᴇ ᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ғɪʟᴇs.</b>
