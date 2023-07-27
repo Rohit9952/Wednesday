@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/29912fe58766a3da41706.jpg" alt="Thalapathy-filter-bot Logo">
+  <img src="https://telegra.ph/file/920470c69bc26426d019e.jpg" alt="Thalapathy-filter-bot Logo">
 </p>
 <h1 align="center">
   THALAPATHY-FILTER-BOT 
