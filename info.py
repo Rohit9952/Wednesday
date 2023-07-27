@@ -98,9 +98,7 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 
 #owner 
-
-OWNER_INFO = environ.get('OWNER_INFO', '⍟───[ My ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
-    
+OWNER_INFO = environ.get('OWNER_INFO', '⍟───[ My ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟    
 • ꜰᴜʟʟ ɴᴀᴍᴇ : RIO NETWORKS 
 • ᴜꜱᴇʀɴᴀᴍᴇ : @creatorrio
 • Updates  : <a href='https://t.me/Teamrioupdates'>Click here</a> 
