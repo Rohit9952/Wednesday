@@ -95,13 +95,3 @@ LOG_STR += ("Long IMDB storyline enabled." if LONG_IMDB_DESCRIPTION else "LONG_I
 LOG_STR += ("Spell Check Mode Is Enabled, bot will be suggesting related movies if movie not found\n" if SPELL_CHECK_REPLY else "SPELL_CHECK_REPLY Mode disabled\n")
 LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST_ELM} elements\n" if MAX_LIST_ELM else "Full List of casts and crew will be shown in imdb template, restrict them by adding a value to MAX_LIST_ELM\n")
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
-
-
-#owner 
-OWNER_INFO = environ.get('OWNER_INFO', '⍟───[ My ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟    
-• ꜰᴜʟʟ ɴᴀᴍᴇ : RIO NETWORKS 
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorrio
-• Updates  : <a href='https://t.me/Teamrioupdates'>Click here</a> 
-. Country : India 🇮🇳
-. State : Tamil Nadu
-. More information : <a href='https://t.me/Teamrioupdates/219'>👉Click here👈</a>')
