@@ -1046,14 +1046,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
             caption=f_caption,
             protect_content=True if ident == 'checksubp' else False,
             reply_markup=InlineKeyboardMarkup(
-                [
-                 [
-                  InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=SUPPORT_CHAT),
-                 ]
-                ]
-            )
-        )
-    
+                [ 
+                  [ 
+                   InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=SUPPORT_CHAT), 
+                   InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK) 
+                 ],[ 
+                   InlineKeyboardButton("BOT OWNER", url="telegram.me/creatorrio") 
+                  ] 
+                 ] 
+             ) 
+         ) 
+                 
     elif query.data == "pages":
         await query.answer()
     
